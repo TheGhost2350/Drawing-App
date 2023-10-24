@@ -12,3 +12,8 @@ canvas {
 border: 2px solid #ffffff;
 background: #ffffff;
 }
+
+label
+{
+    color: #ffffff;
+}
